@@ -1,0 +1,27 @@
+Phase 1 — Project setup ← Start here
+
+Create the Electron application, configure Git, and get the first window running.
+
+
+
+Phase 2 — MovieLet interface
+
+Build navigation, search, movie cards, detail pages, and a polished dark theme.
+
+
+
+Phase 3 — TMDB integration
+
+Retrieve movie and TV metadata, artwork, genres, and search results.
+
+
+
+Phase 4 — Streaming provider system
+
+Implement adapters for the 15 providers, testing availability, embedding compatibility, permissions, and content rights before enabling playback.
+
+
+
+Phase 5 — Desktop features
+
+Add favorites, watch history, local storage, error handling, and Windows packaging.

@@ -1,0 +1,17 @@
+#	Provider	Website / documentation	Advertised content
+1	VidNest	vidnest.fun	Movies, TV, anime
+2	VidZen	vidzen.fun	Movies, TV
+3	VidSrc	vidsrc.sh	Movies, TV
+4	VidFast	vidfast.to	Movies, TV
+5	VidLink	vidlink.pro	Movies, TV, anime
+6	VixSrc	vixsrc.to	Movies, TV
+7	VidRift	vidrift.net	Movies, TV, anime
+8	Vidy	vidy.st	Movies, TV, anime
+9	EmbedWave	embedwave.cc	Movies, TV
+10	Embed API Stream	watch.embed-api.stream	Movies, TV
+11	ezvidapi	ezvidapi.com	Movies, TV, anime
+12	VidSrc.pk	vidsrc.pk	Movies, TV
+13	Viduki	viduki.net	Movies, TV
+14	ScreenScape	screenscape.fun	Movies, TV, anime
+
+---- EmbedBandit
